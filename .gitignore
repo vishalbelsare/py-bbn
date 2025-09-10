@@ -16,3 +16,5 @@ joblib_memmap/
 .DS_store
 .vscode/
 .fleet
+multi_*.json
+singly_*.json
